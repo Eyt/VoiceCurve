@@ -2,7 +2,7 @@
 
 ## 预览
 
-![预览][1]
+![预览](https://raw.githubusercontent.com/Kyson/VoiceCurve/master/art/tt_voice_curve_showcase.gif)
 
 ## 描述
 
@@ -20,8 +20,6 @@
 
 ## License
 
-Copyright (c) 2014 Kyson
+Copyright (c) 2015 Kyson
 
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-
-[1]:http://kkwordpress-wordpress.stor.sinaapp.com/uploads/2014/12/tt_voice_curve_showcase.gif
